@@ -1,0 +1,97 @@
+html, body {
+    border: 0;
+    font: inherit;
+    font-size: 100%;
+    vertical-align: baseline;
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background-color: #fdbaab;
+    font-family: Ovo, serif;
+    font-size: 2em;
+    margin: 0;
+    padding: 0;
+}
+
+#banner {
+    background-color: #96858F;
+    color: #813772;
+    padding: 0;
+    text-align: center;
+    margin: left auto;
+}
+
+h1 {
+    margin: inherit;
+    padding: inherit;
+}
+
+#nav_bar {
+    background-color: #6D7993;
+    text-align: center;
+    font-size: 0.5em;
+    margin: inherit;
+    padding: inherit;
+}
+
+ul {
+    margin: 0;
+}
+
+li {
+    list-style-type: none;
+    display: inline-block;
+    text-align: center;
+    margin-top: 0;
+    padding-top: 0;
+    padding-right: 10px;
+    padding-bottom: 0;
+    padding-left: 10px;
+    border-right: 1px solid white;
+    border-left: 1px solid white;
+}
+
+a:link {
+    background-color: #6D7993;
+    color: white;
+}
+
+a:hover {
+    background-color: #6D7993; opacity: 0.5;
+    color: white;
+}
+
+.main_content {
+    background-color: #9099A2;
+    width: 960px;    
+    display: block;
+    margin: auto;
+    padding: 0;
+    color: #813772;
+}
+
+p {
+    text-align: center;
+}
+
+figure{
+    display: inline-block;
+    padding: 0;
+    margin: 10px 50px 10px 65px;
+    align-content: center;
+
+}
+
+
+figure img{
+    height: 300px;
+    width: 350px;
+    padding: 0;
+}
+
+figcaption{
+    font-size: .4em;
+}
+
